@@ -1,27 +1,29 @@
-# Checkmate ♟️
+# ♜ Chessmate
 
-A chess club landing page with a contact/signup form, built as a practice project to apply HTML and CSS fundamentals.
+A dark-themed chess community signup page — built as an HTML & CSS practice project.
 
-## About
+## Preview
 
-This project recreates a common landing page layout — header, contact form, and a hero section — themed around a chess club/tournament signup.
+![Chessmate preview](./preview.png)
+
+🔗 **[View Live Demo](https://yourusername.github.io/your-repo/)**
 
 ## Features
 
-- Responsive contact form (Name, Email, Message)
-- Gradient background with a subtle sunburst effect
-- Semantic HTML structure
-- Pure CSS styling (no frameworks/libraries)
+- Responsive layout (mobile-friendly)
+- CSS-only form validation styling
+- Custom hover and focus states
+- Google Fonts + Font Awesome icons
 
-## Tech Stack
+## Built With
 
 - HTML5
-- CSS3
+- CSS3 (Flexbox, media queries)
 
-## Status
+## Run Locally
 
-✅ Complete — a one-time practice project.
+Clone the repo and open `index.html` in your browser — no build step needed.
 
-## Author
-
-**Mostafa** — Computer Science student
+\`\`\`bash
+git clone https://github.com/yourusername/your-repo.git
+\`\`\`
