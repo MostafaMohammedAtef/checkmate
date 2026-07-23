@@ -6,7 +6,7 @@ A dark-themed chess community signup page — built as an HTML & CSS practice pr
 
 ![Chessmate preview](./preview.png)
 
-🔗 **[View Live Demo](https://yourusername.github.io/your-repo/)**
+🔗 **[View Live Demo](https://mostafamohammedatef.github.io/checkmate/)**
 
 ## Features
 
@@ -25,5 +25,5 @@ A dark-themed chess community signup page — built as an HTML & CSS practice pr
 Clone the repo and open `index.html` in your browser — no build step needed.
 
 \`\`\`bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/MostafaMohammedAtef/checkmate.git
 \`\`\`
