@@ -12,11 +12,52 @@
       rel="stylesheet" />
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css"
-      integrity="sha512-59mflmEHdfG3+iNat6Jg0HZPgYcAhZ7q0VO+q50sfkQDMBpoaSJfjJU2HuH5aBeMZyTwfKB54G8hratLP3Jsow=="
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer" />
     <title>Chessmate | Sign up</title>
   </head>
-  <body></body>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <a href="index.html">
+          <img class="logo" src="/img/main-logo.png" alt="" />
+        </a>
+        <div class="header-right">
+          <div><i class="fas fa-envelope"></i> contact@chessmate.com</div>
+          <div><i class="fas fa-phone"></i> (+20) 1234567890</div>
+          <a href=""><i class="fa-brands fa-twitter"></i></a>
+        </div>
+      </header>
+      <main class="main-content">
+        <form>
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name" required />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea name="message" id="message"></textarea>
+          </div>
+          <div class="form-group">
+            <button type="submit" class="btn">Submit</button>
+          </div>
+        </form>
+
+        <div class="text-container">
+          <h1>Every Great Game Starts With One Move</h1>
+          <p>
+            Join a community built for players who think three moves ahead.
+            Whether you're just learning the openings or hunting your next
+            rating milestone, sign up below and make your move.
+          </p>
+        </div>
+      </main>
+    </div>
+  </body>
 </html>
